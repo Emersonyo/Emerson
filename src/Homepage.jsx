@@ -9,6 +9,7 @@ import open from '/src/open.png'
 import est from '/src/est.jpeg'
 import et from '/src/et.jpeg'
 import set from '/src/triangule.png'
+import {motion} from 'framer-motion'
 
 
 
@@ -162,6 +163,7 @@ function Homepage()  {
 <div className="right">
 
    <img src={emma} alt="" className="power"/>
+   
  
 </div>
 <div className="prize">
